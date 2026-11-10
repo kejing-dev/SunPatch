@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sun Patch launcher glyph (design appIcon): a white four-pane window upper left, a warm slanted patch of sun on the
+     "floor" lower right, no line between them, on evening blue #1F5F8A. 108-unit adaptive canvas, inside the 66-unit
+     safe zone. No text. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#E6FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M25,23h33v31h-33z M28.5,26.5v10.5h11.25v-10.5z M43.25,26.5v10.5h11.25v-10.5z M28.5,40.5v10h11.25v-10z M43.25,40.5v10h11.25v-10z" />
+    <path
+        android:fillColor="#D9FFCF7A"
+        android:pathData="M45,62L77,62L87,84L55,84Z" />
+</vector>
